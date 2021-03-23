@@ -1,0 +1,10 @@
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\bin\Debug\Biblioteca.dll
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\bin\Debug\Biblioteca.pdb
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.csproj.CopyComplete
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\Compumar\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.pdb

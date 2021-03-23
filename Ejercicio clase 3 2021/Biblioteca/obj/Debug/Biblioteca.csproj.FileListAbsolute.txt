@@ -1,0 +1,6 @@
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Biblioteca\obj\Debug\Biblioteca.pdb

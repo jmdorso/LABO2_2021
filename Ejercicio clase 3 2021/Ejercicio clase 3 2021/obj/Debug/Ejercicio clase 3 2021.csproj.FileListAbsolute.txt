@@ -1,0 +1,10 @@
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\obj\Debug\Ejercicio clase 3 2021.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\bin\Debug\Ejercicio clase 3 2021.exe.config
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\bin\Debug\Ejercicio clase 3 2021.exe
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\bin\Debug\Ejercicio clase 3 2021.pdb
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\bin\Debug\Biblioteca.dll
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\bin\Debug\Biblioteca.pdb
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\obj\Debug\Ejercicio clase 3 2021.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\obj\Debug\Ejercicio clase 3 2021.csproj.CopyComplete
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\obj\Debug\Ejercicio clase 3 2021.exe
+C:\Users\Compumar\source\repos\Ejercicio clase 3 2021\Ejercicio clase 3 2021\obj\Debug\Ejercicio clase 3 2021.pdb

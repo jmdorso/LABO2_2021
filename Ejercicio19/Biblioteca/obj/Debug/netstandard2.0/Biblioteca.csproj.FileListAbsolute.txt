@@ -1,0 +1,9 @@
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.deps.json
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.dll
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.pdb
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.dll
+C:\Users\Compumar\source\repos\Ejercicio19\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.pdb
