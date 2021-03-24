@@ -1,0 +1,7 @@
+C:\Users\Compumar\source\repos\LABO2_2021\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+C:\Users\Compumar\source\repos\LABO2_2021\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe
+C:\Users\Compumar\source\repos\LABO2_2021\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.pdb
+C:\Users\Compumar\source\repos\LABO2_2021\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\LABO2_2021\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\LABO2_2021\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.exe
+C:\Users\Compumar\source\repos\LABO2_2021\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.pdb
