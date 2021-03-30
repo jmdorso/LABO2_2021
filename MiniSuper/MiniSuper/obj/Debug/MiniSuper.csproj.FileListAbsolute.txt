@@ -1,0 +1,14 @@
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe.config
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\bin\Debug\MiniSuper.pdb
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FrmPrincipal.resources
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.Properties.Resources.resources
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.GenerateResource.cache
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.exe
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.pdb
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\bin\Debug\Biblioteca.dll
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\bin\Debug\Biblioteca.pdb
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FrmAltaUsuario.resources
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\MiniSuper\Biblioteca\obj\Debug\Biblioteca.pdb

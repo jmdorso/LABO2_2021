@@ -1,0 +1,10 @@
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\bin\Debug\Producto.dll
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\bin\Debug\Producto.pdb
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\obj\Debug\TestEstante.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\obj\Debug\TestEstante.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\obj\Debug\TestEstante.csproj.CopyComplete
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\paula\source\repos\Labo2021\LABO2_2021\Repaso\TestEstante\obj\Debug\TestEstante.pdb
