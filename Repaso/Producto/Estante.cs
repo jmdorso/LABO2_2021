@@ -31,7 +31,7 @@ namespace Repaso
         {
             StringBuilder auxRetorno = new StringBuilder();
 
-            auxRetorno.AppendLine($"Mi estante || Ubicacion {e.ubicacionEstante} || Capacidad {e.productos.Length}\n");
+            auxRetorno.AppendLine($"Mi estante || Ubicacion {e.ubicacionEstante} || Capacidad {e.GetProductos().Length}n");
             foreach(Producto producto in e.GetProductos())
             {
                 
@@ -65,25 +65,32 @@ namespace Repaso
         {
             bool auxRetorno = false;
 
-            for(int i = 0; i<e.GetProductos().Length; i++)
+            if(e != p)
             {
-                if ((e.productos[i] is null) && (e != p))
+                for (int i = 0; i < e.GetProductos().Length; i++)
                 {
-                    e.productos[i] = p;
-                    auxRetorno = true;
+                    if ((e.productos[i] is null))
+                    {
+                        e.productos[i] = p;
+                        auxRetorno = true;
+                    }
                 }
             }
-           
+          
             return auxRetorno;
         }
 
         public static Estante operator -(Estante e, Producto p)
         {
-            for(int i=0; i<e.productos.Length; i++)
+            if(e == p)
             {
-                if(p == e.productos[i])
+                for (int i = 0; i < e.GetProductos().Length; i++)
                 {
-                    e.productos[i] = null;
+                    if (p == e.productos[i])
+                    {
+                        e.productos[i] = null;
+                    }
+
                 }
             }
 

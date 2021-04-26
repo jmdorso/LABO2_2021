@@ -1,0 +1,10 @@
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\obj\Debug\Presentation.Console.csprojAssemblyReference.cache
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\obj\Debug\Presentation.Console.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\bin\Debug\Presentation.exe
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\bin\Debug\Presentation.pdb
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\bin\Debug\Business.dll
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\bin\Debug\Business.pdb
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\obj\Debug\Presentation.Console.csproj.CopyComplete
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\obj\Debug\Presentation.exe
+C:\Users\paula\Desktop\JUAN FACULTAD\07_Card_Game-20210405T233927Z-001\07_Card_Game\Presentation\obj\Debug\Presentation.pdb

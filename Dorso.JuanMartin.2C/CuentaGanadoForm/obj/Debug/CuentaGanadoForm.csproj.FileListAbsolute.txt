@@ -1,0 +1,15 @@
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.ControlPublicoForm.resources
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Datos.resources
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.MostrarDatosForm.resources
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Properties.Resources.resources
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.GenerateResource.cache
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe.config
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.pdb
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\bin\Debug\Entidades.dll
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\bin\Debug\Entidades.pdb
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CopyComplete
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.exe
+C:\Users\paula\source\repos\Dorso.JuanMartin.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.pdb

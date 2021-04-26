@@ -63,6 +63,23 @@ namespace TestEstante
             Console.WriteLine();
             Console.WriteLine("<------------------------------------------------->");
             Console.WriteLine(Estante.MostrarEstante(estante));
+
+            // Modifico el main para probar la sustraccion
+            Console.WriteLine();
+            Console.WriteLine("<---MAIN MODIFICADO PARA PROBAR LA SUSTRACCION--->");
+            estante = estante - p1;
+            Console.WriteLine("Elimino el primer producto");
+            if (estante + p4)
+            {
+                Console.WriteLine("Agregó {0} {1} {2}", p4.GetMarca(), (string)p4, p4.GetPrecio());
+            }
+            else
+            {
+                Console.WriteLine("¡NO agregó {0} {1} {2}!", p4.GetMarca(), (string)p4, p4.GetPrecio());
+            }
+            Console.WriteLine();
+            Console.WriteLine("<------------------------------------------------->");
+            Console.WriteLine(Estante.MostrarEstante(estante));
             Console.ReadKey();
         }
     }

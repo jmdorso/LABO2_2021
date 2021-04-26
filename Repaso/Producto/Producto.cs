@@ -33,9 +33,12 @@ namespace Repaso
         {
             StringBuilder auxRetorno = new StringBuilder();
 
-            auxRetorno.AppendLine($"CODIGO DE BARRA: {p.codigoDeBarra}");
-            auxRetorno.AppendLine($"MARCA: {p.GetMarca()}");
-            auxRetorno.AppendLine($"PRECIO: $ {p.GetPrecio()}");
+            if(!(p is null))
+            {
+                auxRetorno.AppendLine($"CODIGO DE BARRA: {p.codigoDeBarra}");
+                auxRetorno.AppendLine($"MARCA: {p.GetMarca()}");
+                auxRetorno.AppendLine($"PRECIO: $ {p.GetPrecio()}");
+            }
 
             return auxRetorno.ToString();
         }
@@ -55,7 +58,7 @@ namespace Repaso
 
             if(!(p1 is null) && !(p2 is null))
             {
-                if ((p1.codigoDeBarra == p2.codigoDeBarra) && (p1.marca == p2.marca))
+                if ((p1.codigoDeBarra == p2.codigoDeBarra) && (p1.GetMarca() == p2.GetMarca()))
                 {
                     auxRetorno = true;
                 }
